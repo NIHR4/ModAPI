@@ -56,6 +56,11 @@ void __stdcall func(void);
 
 For proper documentation check the [API Reference]() page
 
+## For Mod Loader creators
 The second component of ModAPI is intended to be used by mod loader authors and will be explained at later point in time.
+
+### Example
+
+Todo
 
 
